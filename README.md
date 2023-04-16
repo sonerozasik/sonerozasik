@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonerozasik
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js, Vue.js, .Net Core 6
+- 🌱 I’m currently learning React.js, Vue.js, .Net Core 6, JavaSpring
 
 <!---
 sonerozasik/sonerozasik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
